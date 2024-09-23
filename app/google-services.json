@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313608023516",
+    "project_id": "fir-app-8b438",
+    "storage_bucket": "fir-app-8b438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313608023516:android:d1af3a410bc99b807a3319",
+        "android_client_info": {
+          "package_name": "br.edu.ifes.firebaseapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbkG90iFNVtIzutxQq9b56BONz8lxyX8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
